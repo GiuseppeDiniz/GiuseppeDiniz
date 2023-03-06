@@ -23,9 +23,7 @@ Mobile app developer with experience in React Native and TypeScript, passionate 
 </p>
 
 ## Portfolio Projects:
-- [EnvCity]()
-- [MyTasks]()
+- [EnvCity](https://github.com/GiuseppeDiniz/EnvCity)
 - [Netflix Clone]()
-- [Task Manager API]()
 
 

@@ -19,10 +19,10 @@
 </div>
 
 <p style="text-align: justify;"><br/>
-Desenvolvedor de aplicativos móveis com experiência em React Native e TypeScript, apaixonado por tecnologia e sempre em busca de aprendizado e desenvolvimento. Comprometido em criar soluções inovadoras e de alta qualidade, utilizando as melhores práticas de arquitetura de aplicativos e padrões de design. Disponível para contribuir em projetos desafiadores e colaborativos.
+Mobile app developer with experience in React Native and TypeScript, passionate about technology and always looking for learning and development. Committed to creating innovative, high-quality solutions using application architecture best practices and design patterns. Available to contribute to challenging and collaborative projects.
 </p>
 
-## Projetos de portfólio :
+## Portfolio Projects:
 - [MyTasks]()
 - [Netflix Clone]()
 - [Task Manager API]()

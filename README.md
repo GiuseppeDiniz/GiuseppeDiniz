@@ -1,8 +1,8 @@
 # Hi! I'm Giuseppe Diniz 👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-diniz)
-[![linkedin](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)]()
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1rwcx0hjlqlj3&utm_content=dypdgcq)
 
 
 ![Giuseppe GitHub stats](https://github-readme-stats.vercel.app/api?username=GiuseppeDiniz&show_icons=true&theme=radical)
@@ -23,6 +23,7 @@ Mobile app developer with experience in React Native and TypeScript, passionate 
 </p>
 
 ## Portfolio Projects:
+- [EnvCity]()
 - [MyTasks]()
 - [Netflix Clone]()
 - [Task Manager API]()

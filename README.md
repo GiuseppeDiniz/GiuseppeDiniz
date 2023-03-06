@@ -5,7 +5,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1rwcx0hjlqlj3&utm_content=dypdgcq)
 
 
-![Giuseppe GitHub stats](https://github-readme-stats.vercel.app/api?username=GiuseppeDiniz&show_icons=true&theme=radical)  
+![Giuseppe GitHub stats](https://github-readme-stats.vercel.app/api?username=GiuseppeDiniz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeDiniz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technology that I use in my day

@@ -23,6 +23,6 @@ Mobile app developer with experience in React Native and TypeScript, passionate 
 </p>
 
 ## Portfolio Projects:
-- [EnvCity](https://github.com/GiuseppeDiniz/EnvCity)
+
 
 

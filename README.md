@@ -19,7 +19,7 @@
 </div>
 
 <p style="text-align: justify;"><br/>
-Mobile app developer with experience in React Native and TypeScript, passionate about technology and always looking for learning and development. Committed to creating innovative, high-quality solutions using application architecture best practices and design patterns. Available to contribute to challenging and collaborative projects.
+
 </p>
 
 ## Portfolio Projects:

@@ -19,19 +19,6 @@
 </div>
 
 <p style="text-align: justify;"><br/>
-I'm passionate about building web and mobile applications, and I specialize in using a combination of Node.js, Next.js, React, React Native, and TypeScript.
-
-🚀 Technologies I work with:
-
-Node.js: I leverage the power of Node.js to build scalable and efficient server-side applications. Its event-driven architecture and vast ecosystem of packages make it a go-to choice for backend development.
-
-Next.js: I enjoy working with Next.js, a React framework that allows me to build modern, server-side rendered (SSR) or statically generated (SSG) websites. Next.js provides excellent developer experience and optimized performance out of the box.
-
-React: React is my go-to library for building dynamic and interactive user interfaces. Its component-based approach and virtual DOM make it easy to create reusable UI components and efficiently manage application state.
-
-React Native: With React Native, I develop cross-platform mobile applications for iOS and Android. By writing code once in React Native, I can deliver native-like experiences while maximizing code reuse and development efficiency.
-
-TypeScript: I'm a big fan of TypeScript because it adds static typing and enhanced tooling to JavaScript. It helps catch errors early, improves code maintainability, and provides better developer productivity.
 </p>
 
 ## Portfolio Projects:
